@@ -14,8 +14,8 @@
 * 第一课 网络基础(socket)
 * 第二课 基于r3层的网络过滤
 * 第三课 linux内核调试环境搭建(双机调试)
-* 第四课 netfiter基础
-* 第五课 基于netfiter的网络过滤
+* 第四课 Netfilter
+* 第五课 基于Netfilter的网络过滤
 # macosx篇
 * 第一课 网络基础(freebsd)
 * 第二课 基于r3层的网络过滤
