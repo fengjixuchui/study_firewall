@@ -21,7 +21,7 @@ Winsock 服务提供者API包含在WS2SPI.H文件中。共有4种类型的SPI函
 
 这里我们以LSP（从分层传输服务提供者）的SPI函数为例，因为基础传输提供者和命名空间提供者通常仅对操作系统开发商和传输堆栈商有效，LSP是系统组件，SPI提供3种协议：分层协议，基础协议和协议链。分层协议基于基础协议，协议链是将一系列的分层协议与基础协议按特定的顺序连接在一起的链状结构。
 
-系统上可用的不同协议包含在Winsock目录中，每一个协议都有一个目录入口，Winsock用WSAPROTOCOL_INFO结构描述特定协议的完整信息，遍历所有SPI协议就是遍历所有的WSAPROTOCOL_INFO结构，一个[WSAPROTOCOL_INFO](https://docs.microsoft.com/en-us/previous-versions/aa916786(v=msdn.10))结构称为一个Winsock目录。
+系统上可用的不同协议包含在Winsock目录中，每一个协议都有一个目录入口，Winsock用WSAPROTOCOL_INFO结构描述特定协议的完整信息，遍历所有SPI协议就是遍历所有的WSAPROTOCOL_INFO结构，一个[WSAPROTOCOL_INFO](https://docs.microsoft.com/en-us/previous-versions/aa916786(v=msdn.10))结构称为一个Winsock目录入口。也就目录包含所有的WSAPROTOCOL_INFO结构（目录入口/协议入口)。
 ```
 typedef struct _WSAPROTOCOL_INFO {
   DWORD dwServiceFlags1;
