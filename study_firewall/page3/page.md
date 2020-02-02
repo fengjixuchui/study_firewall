@@ -59,7 +59,11 @@ bcdedit /timeout 10
 * 被调试机上 开始那右击 运行  运行msconfig 打开启动 进入高级 把刚刚添加的debug 打钩调试 选择对应的com
 * 调试机windbg 用com附加（不要打钩pipe）
 * 重启被调试机 debug启动（可能没有，没有直接运行windbg也能接收到信息）
+
 ![](./image/2.png)
 
-
+* 可以参考：
+* https://bbs.pediy.com/thread-222660.htm
+* https://blog.csdn.net/chenhuan20123/article/details/78484243
+* https://blog.csdn.net/weixin_30532987/article/details/94977818
 
