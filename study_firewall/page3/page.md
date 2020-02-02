@@ -1,5 +1,10 @@
 # 第三课 windows内核调试环境搭建(双机调试)
 * 驱动开发环境搭建
+* 安装 vs2019 打钩sdk
+* 安装 [wdk](https://docs.microsoft.com/zh-cn/windows-hardware/drivers/download-the-wdk)
+* 安装 [wdk7600](https://www.microsoft.com/en-us/download/details.aspx?id=11800)
+
+![](./image/3.png)
 * 调试环境搭建
 1. [VirtualKD](https://github.com/haidragon/VirtualKD-Redux) 方式
 
