@@ -21,6 +21,9 @@ C:\Windows\system32>bcdedit /displayorder {current} {5da4ee53-44ff-11ea-ac9f-aa2
 操作成功完成。
 
 C:\Windows\system32>bcdedit /debug {5da4ee53-44ff-11ea-ac9f-aa2f854a61e3} ON
+
+windbg com附加（pipe等其它钩全打）
+
 ```
 * 可以参考：
 * https://blog.csdn.net/sagittarius_warrior/article/details/51305046
