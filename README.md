@@ -13,7 +13,7 @@
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page5/page.md
 * 第六课 PassThru 源码分析
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page6/page.md
-* 第七课 WFP基础(Windows Filtering Platform)
+* 第七课 WFP基础[(Windows Filtering Platform)](https://docs.microsoft.com/zh-cn/windows/win32/fwp/windows-filtering-platform-architecture-overview)
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page7/page.md
 * 第八课 WFP r3层下的网络过滤
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page8/page.md
