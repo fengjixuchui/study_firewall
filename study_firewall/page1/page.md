@@ -435,4 +435,6 @@ Cannot find hal!KeReleaseInStackQueuedSpinLock
 ```
 
 
+如果要看视频可以扫下面进行观看。
 
+![](https://github.com/haidragon/study_frida/blob/master/image/1681580715267_.pic_hd.jpg)
