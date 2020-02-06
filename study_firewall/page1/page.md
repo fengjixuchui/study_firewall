@@ -213,8 +213,8 @@ DBGHELP: afd - public symbols
 
 # 追踪send
 ![](./image/4.png)
-![](./image/5.png)
 ![](./image/6.png)
+![](./image/5.png)
 ```
 1: kd> bc 3
 1: kd> g
