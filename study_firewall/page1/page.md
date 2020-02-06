@@ -13,7 +13,7 @@ bp WS2_32!recv
 bp ntdll!ZwDeviceIoControlFile ".if(poi(ebp+8)=0x8c){}.else{gc}"
 bp nt!NtDeviceIoControlFile ".if(poi(ebp+8)=0x8c){}.else{gc}"
 ```
-* 查看第一个参数（句柄）这里是 0x000000c8
+* 查看第一个参数（句柄）  
 ```
 可下条件断点
 bp ntdll!ZwDeviceIoControlFile ".if(poi(ebp+8)=0x8c){}.else{gc}"
