@@ -29,10 +29,7 @@ C:\Windows\system32>bcdedit /debug {5da4ee53-44ff-11ea-ac9f-aa2f854a61e3} ON
 
 windbg com附加（pipe等其它钩全打）
 
-```
-* 可以参考：
-* https://blog.csdn.net/sagittarius_warrior/article/details/51305046
-* https://www.cnblogs.com/DarkBright/p/10843698.html
+``` 
 
 3. mac 下如何双虚拟机调试
 * 调试虚拟机
@@ -69,9 +66,5 @@ bcdedit /timeout 10
 * 重启被调试机 debug启动（可能没有，没有直接运行windbg也能接收到信息）
 
 ![](./image/2.png)
-
-* 可以参考：
-* https://bbs.pediy.com/thread-222660.htm
-* https://blog.csdn.net/chenhuan20123/article/details/78484243
-* https://blog.csdn.net/weixin_30532987/article/details/94977818
+ 
 
