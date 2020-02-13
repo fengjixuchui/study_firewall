@@ -5,7 +5,7 @@
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page1/page.md
 * 第二课 基于SPI层的网络过滤（LSP)
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page2/page.md
-* 第三课 windows内核调试环境搭建(双机调试)
+* 第三课 windows内核调试环境搭建(双机调试 mac平台 windows平台)
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page3/page.md
 * 第四课 TDI层的网络过滤 （[Transport Driver Interface](https://docs.microsoft.com/en-us/previous-versions/windows/hardware/network/ff565094(v=vs.85)?redirectedfrom=MSDN)） 
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page4/page.md
@@ -26,7 +26,7 @@
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page11/page.md
 * 第三课 linux内核源码编译
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page12/page.md
-* 第四课 linux内核调试环境搭建(双机调试)
+* 第四课 linux内核调试环境搭建(双机调试 mac平台 windows平台)
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page13/page.md
 * 第五课 Netfilter
 * https://github.com/haidragon/study_firewall/blob/master/study_firewall/page14/page.md
