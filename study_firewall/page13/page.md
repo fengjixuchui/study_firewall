@@ -6,7 +6,4 @@
 第三步gdb调试vmlinux
 ![](./images/2.png)
 ![](./images/3.png)
-![](./images/4.png)
-## 如果没有设置任何断点想要暂停被调试机运行下面命令
-# Eclipse调试linux内核arm构架
-* 如何关闭 [-O2 选项](http://www.lenky.info/archives/2013/03/2238)
+![](./images/4.png) 
